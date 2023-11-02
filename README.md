@@ -7,6 +7,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/antxcyber/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/antxcyber/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/antxcyber)
+  - [Basics of Azure](https://github.com/antxcyber/basics-of-azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/antxcyber/azure-network-protocols)
 <h2>🤳Connect with me:</h2>
