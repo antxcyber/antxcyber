@@ -8,5 +8,5 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/antxcyber/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Basics of Azure](https://github.com/antxcyber/basics-of-azure)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/antxcyber/azure-network-protocols)
+  - [Creating a Virtual Machine Network in Azure and Inspecting Network Protocol](https://github.com/antxcyber/azure-network-protocols)
 <h2>🤳Connect with me:</h2>
