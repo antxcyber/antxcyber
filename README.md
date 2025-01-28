@@ -10,3 +10,4 @@
   - [Basics of Azure](https://github.com/antxcyber/basics-of-azure)
   - [Creating a Virtual Machine Network in Azure and Inspecting Network Protocol](https://github.com/antxcyber/azure-network-protocols)
 <h2>🤳Connect with me:</h2>
+- <b>HTML & CSS basics</b>
